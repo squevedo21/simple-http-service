@@ -1,0 +1,4 @@
+com/example/simple_http_service/controller/SimpleHttpController.class
+com/example/simple_http_service/dto/StartResponse.class
+com/example/simple_http_service/dto/StartResponse$StartResponseBuilder.class
+com/example/simple_http_service/SimpleHttpServiceApplication.class
